@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/analyze-texture.js": {
+      "maxDuration": 30
+    }
+  }
+}
